@@ -57,11 +57,11 @@ Legende:
 
 | Feld | Ersteller | Adressat |
 |---|---:|---:|
-| Akte | ✅ | ✅ |
-| Register | ✅ | ✅ |
 | Ersteller | ⭐ | — |
 | Adressat | ⭐ | — |
 | Beschreibung | ✅ | ✅ |
+| Akte | ✅ | ✅ |
+| Register | ✅ | ✅ |
 | Dokument | ✅ | ✅ |
 | Neuer Kommentar | ✅ | ✅ |
 
@@ -69,11 +69,11 @@ Legende:
 
 | Feld | Ersteller | Adressat |
 |---|---:|---:|
-| Akte | ⭐ | ⭐ |
-| Register | ⭐ | ⭐ |
 | Ersteller | — | — |
 | Adressat | — | — |
 | Beschreibung | — | ✅ |
+| Akte | ⭐ | ⭐ |
+| Register | ⭐ | ⭐ |
 | Dokument | ✅ | ✅ |
 | Neuer Kommentar | ✅ | ✅ |
 
@@ -83,11 +83,11 @@ Legende:
 
 | Feld | Ersteller | Adressat |
 |---|---:|---:|
-| Akte | — | — |
-| Register | — | — |
 | Ersteller | — | — |
 | Adressat | — | — |
 | Beschreibung | — | — |
+| Akte | — | — |
+| Register | — | — |
 | Dokument | ✅ | ✅ |
 | Neuer Kommentar | ✅ | ✅ |
 
@@ -95,11 +95,11 @@ Legende:
 
 | Feld | Ersteller | Adressat |
 |---|---:|---:|
-| Akte | — | ⭐ |
-| Register | — | ⭐ |
 | Ersteller | — | — |
 | Adressat | — | — |
 | Beschreibung | — | — |
+| Akte | — | ⭐ |
+| Register | — | ⭐ |
 | Dokument | ✅ | ✅ |
 | Neuer Kommentar | ✅ | ✅ |
 
