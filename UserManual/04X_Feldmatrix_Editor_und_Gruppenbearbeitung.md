@@ -2,8 +2,6 @@
 
 Dieses Kapitel beschreibt die **Regeln für Eingabebereitschaft (editierbar)** und **Pflichtfelder** im **Editor** und in der **Gruppenbearbeitung**.
 
-Es gilt als Referenzkapitel: Wenn ein Benutzer an einer Stelle fragt „Warum kann ich das nicht ändern?“ oder „Warum ist das Pflicht?“, ist die Antwort hier zu finden.
-
 ---
 
 ## 1. Grundprinzip
@@ -109,11 +107,3 @@ Legende:
 
 1) **Die Logik pro Dokument ist identisch** zur Editor-Matrix oben.  
 2) Ein Feld ist in der Gruppenbearbeitung **editierbar**, wenn es **für mindestens ein Dokument der Gruppe** editierbar ist.
-
----
-
-# 6. Ausblick: Fristenanlage & Aufgabenanlage
-
-Diese Matrix-Struktur (Status × Rolle → enabled/required) wird später analog benötigt für:
-- **Fristenanlage** (zusätzlich abhängig vom **Fristverantwortlichen**)
-- **Aufgabenanlage** (zusätzliche Rollen/Verantwortlichkeiten)
